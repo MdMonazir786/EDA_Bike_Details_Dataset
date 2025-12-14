@@ -1,1 +1,1 @@
-# EDA_Bike_Details_Dataset
+# EDA_Assignments
